@@ -12,7 +12,7 @@ https://github.com/quentin-roubin :
 ### And this is the Gitlab account from my Master's degree
 https://gitlab.emi.u-bordeaux.fr/qroubin :
 - https://gitlab.emi.u-bordeaux.fr/lmerienne/projetpdp
-- 
+
 <!--
 **qroubin/qroubin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
