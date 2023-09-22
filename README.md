@@ -1,7 +1,6 @@
 ### Welcome to my profile, here are some links to projects I contributed to :
 
 https://github.com/mickaelarv/shape_editor
-https://github.com/hyperion2022/lightup
 
 ### This is another account of mine I used during my bachelor's degree
 https://github.com/quentin-roubin :
