@@ -6,7 +6,8 @@ https://github.com/mickaelarv/shape_editor
 
 
 ### This is the Gitlab account from my Master's degree
-https://gitlab.emi.u-bordeaux.fr/qroubin :
+https://gitlab.emi.u-bordeaux.fr/qroubin :  
+  
 My last project to this date, it consists of a software based on Python and OpenGL for viewing 3D objects in "real" 3D, with methods like anaglyph, viewpoint or side by side. I mainly worked on the side by side elements, but also helped on the UI elements of the software.  
 - https://gitlab.emi.u-bordeaux.fr/lmerienne/projetpdp
 
