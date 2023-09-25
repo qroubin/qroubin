@@ -5,6 +5,12 @@ We used a Model-View-Controller pattern and several design patterns like Method 
 https://github.com/mickaelarv/shape_editor
 
 
+### This is the Gitlab account from my Master's degree
+https://gitlab.emi.u-bordeaux.fr/qroubin :
+My last project to this date, it consists of a software based on Python and OpenGL for viewing 3D objects in "real" 3D, with methods like anaglyph, viewpoint or side by side. I mainly worked on the side by side elements, but also helped on the UI elements of the software.  
+- https://gitlab.emi.u-bordeaux.fr/lmerienne/projetpdp
+
+
 ### This is another account of mine I used during my bachelor's degree
 https://github.com/quentin-roubin :
 
@@ -17,11 +23,6 @@ The following project was made in 2nd year of my bachelor's, and involved 6 peop
 
 The same year and with another team of 3, we made a blog type website linked to a MySQL database. We focused on using PHP to manage requests like collecting forms data and communicating with the server.  
 - https://github.com/KCRitoki/ProjetPHP
-
-
-### And this is the Gitlab account from my Master's degree
-https://gitlab.emi.u-bordeaux.fr/qroubin :
-- https://gitlab.emi.u-bordeaux.fr/lmerienne/projetpdp
 
 <!--
 **qroubin/qroubin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
