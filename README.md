@@ -8,11 +8,14 @@ https://github.com/mickaelarv/shape_editor
 ### This is another account of mine I used during my bachelor's degree
 https://github.com/quentin-roubin :
 
-This is one of my most important projects in terms of duration. We worked in a team of 4 on a free subject, and we chose to make a game in Unity to strengthen our skills in C#. This game is a 2D RogueLike where the player has to escape from a tower by fighting ennemies in each room before continuing to the next one. As in any RogueLike, the player gets to choose between upgrades and builds up its character through the game. This project taught me several skills, like managing ennemies AI, setting up pathfinding, managing player stats and in general allowed me to get better at Object Oriented Programming.
+This is one of my most important projects in terms of duration. We worked in a team of 4 on a free subject, and we chose to make a game in Unity to strengthen our skills in C#. This game is a 2D RogueLike where the player has to escape from a tower by fighting ennemies in each room before continuing to the next one. As in any RogueLike, the player gets to choose between upgrades and builds up its character through the game.
+This project taught me several skills, like managing ennemies AI, setting up pathfinding, managing player stats and in general allowed me to get better at Object Oriented Programming.  
 - https://github.com/GaetanTheGate/Facing_Down
 
-
+The following project was made in 2nd year of my bachelor's, and involved 6 people. It's a game that consists of a series of minigames played consecutively, and ends when the player failed 3 times. I was tasked with making some elements of the UI and contributed to a couple minigames. The langage used was C++, as it was the main focus for the first 2 years of my education.  
 - https://github.com/Gaetan-Trinca-Pupet/Secret-Defense
+
+The same year and with another team of 3, we made a blog type website linked to a MySQL database. We focused on using PHP to manage requests like collecting forms data and communicating with the server.  
 - https://github.com/KCRitoki/ProjetPHP
 
 
