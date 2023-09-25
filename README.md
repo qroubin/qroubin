@@ -1,7 +1,7 @@
 ### Welcome to my profile, here are some links to projects I contributed to :
 
 In this project, I was a member of a team of 3 and we worked with both Java FX and Java AWT to develop a software for creating and managing geometrical figures in an editor window, with different tools to interact with them. Our main goal was to use the most Design Patterns and to follow Java's best practices.
-We used a Model-View-Controller pattern and several design patterns like Method Factory, Singleton, Memento, and Command for the different actions possible within the editor. 
+We used a Model-View-Controller pattern and several design patterns like Method Factory, Singleton, Memento, and Command for the different actions possible within the editor. \\
 https://github.com/mickaelarv/shape_editor
 
 
